@@ -48,5 +48,7 @@ Logging initialized using configuration in file:/etc/hive/2.6.4.0-91/0/hive-log4
 OK
 Time taken: 23.152 seconds, Fetched: 10 row(s)
 
-
 ```
+
+### How to create dynamic parition
+
